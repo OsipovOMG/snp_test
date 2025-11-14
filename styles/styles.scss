@@ -1,0 +1,16 @@
+@import 'normalize',
+'fonts',
+'mixins',
+'media',
+'variables',
+'utils',
+'globals';
+
+@import "blocks/header",
+"blocks/tour",
+"blocks/tour-form",
+"blocks/reviews",
+"blocks/gallery",
+"blocks/stories",
+"blocks/travel",
+"blocks/footer";
